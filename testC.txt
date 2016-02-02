@@ -1,1 +1,1 @@
-repoA testC foo CCC bar
+repoB testC foo CCC bar
