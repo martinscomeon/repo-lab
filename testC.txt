@@ -1,1 +1,1 @@
-repoB testC foo CCC bar
+repoB testC foo CCC bar Branch b_foot

@@ -1,1 +1,1 @@
-repoB testA foo AAA bar
+repoB testA foo AAA bar Branch b_foot
