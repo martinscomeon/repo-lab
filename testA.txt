@@ -1,1 +1,1 @@
-repoB testA foo AAA bar
+master repoB testA foo AAA bar
