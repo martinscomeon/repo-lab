@@ -1,1 +1,1 @@
-master repoB testC foo CCC bar
+solved:master repoB testC foo CCC bar 

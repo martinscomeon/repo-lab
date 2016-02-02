@@ -1,1 +1,1 @@
-master repoB testB foo BBB bar
+merged repoB testB foo BBB bar merged
