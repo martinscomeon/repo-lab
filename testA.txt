@@ -1,1 +1,1 @@
-master repoA testA foo AAA bar baaaz
+repoA

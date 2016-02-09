@@ -1,1 +1,1 @@
-master repoA testC foo CCC bar  baaaz
+repoA
