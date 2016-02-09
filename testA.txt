@@ -1,1 +1,1 @@
-solved:repoB testA foo AAA bar Branch b_foot
+change in repoB b2-branch

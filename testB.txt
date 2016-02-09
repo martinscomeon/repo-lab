@@ -1,1 +1,1 @@
-merged repoB testB foo BBB bar merged
+change in repoB b2-branch
