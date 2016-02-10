@@ -1,1 +1,2 @@
 change in repoB b2-branch
+add something
